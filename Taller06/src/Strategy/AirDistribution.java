@@ -1,11 +1,14 @@
 
 package Strategy;
 
-public class AirDistribution implements Distribution{
+import Iterator.Product;
+import java.util.List;
+
+public class AirDistribution implements DeliveryStrategy{
 
     @Override
-    public void transport() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    public void transport(List<Product> p) {
+        System.out.println("Transporting products by a Air Distribution");
     }
     
 }
