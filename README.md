@@ -1,2 +1,5 @@
 # Taller06-Patterns
-- Kevin Valle  - Nicolás Plaza  - José Macías
+- Kevin Valle  
+- Nicolás Plaza  
+- José Macías
+- Jefferson Eras
